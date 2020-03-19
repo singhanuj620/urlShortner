@@ -1,6 +1,8 @@
 # urlShortner
 Web Application made with nodejs and mongoDb that shorts the full url and tracks the number of times it is clicked.
 
+# [LIVE DEMO](http://urlshortneranuj.herokuapp.com/)
+
 # Please give it a start too. Thanks !
 
 
